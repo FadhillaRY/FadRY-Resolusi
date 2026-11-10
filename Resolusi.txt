@@ -1,4 +1,3 @@
 RESOLUSI 
 - Mencoba Github
 - Memahami cara pakainya
-- ---
